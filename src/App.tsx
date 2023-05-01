@@ -1,7 +1,8 @@
+
 function App() {
     return (
-        <div>
-            <h1>Hello from app</h1>
+        <div className="h-screen w-screen bg-black">
+            <h1 className="font-pop text-white">Hello from app</h1>
         </div>
     );
 }
